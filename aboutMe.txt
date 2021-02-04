@@ -1,0 +1,9 @@
+My name is Claire Bushnell, I am a senior at Santa Clara University, my major is Computer Science and Engineering.
+
+courses: 
+ENGR 141
+ENGR 166
+ENGR 163
+SCTR 111
+COEN 174 
+COEN 195 
